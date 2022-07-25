@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">ut-record_v31n05_1928-09_Martin</identifier>
+   <titleInfo supplied="yes">
+      <title>Commencement of the University of Tennessee, Martin,1928</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Closing exercises Junior College, Martin 1928</title>
+   </titleInfo>
+   <abstract>The 1928 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held May 26. This publication contains the address given at the ceremony.</abstract>
+   <originInfo>
+      <dateCreated>1928</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1928 </dateCreated>
+      <dateIssued encoding="edtf">1928-09</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
+      <extent>4 pages</extent>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh00009998">
+      <topic>Commencement ceremonies</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85114211">
+      <topic>Rites and ceremonies</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2009002271">
+      <topic>Universities and colleges--Alumni and alumnae--United States</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80003882">
+      <name>
+         <namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>University of Tennessee at Martin Commencement Programs</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

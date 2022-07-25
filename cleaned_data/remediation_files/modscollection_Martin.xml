@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods>
+<identifier type="local">ut-record_v31n05_1928-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin,1928</title></titleInfo> 
+<titleInfo type="alternative"><title>Closing exercises Junior College, Martin 1928</title></titleInfo> 
+<abstract>The 1928 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held May 26. This publication contains the address given at the ceremony.</abstract>
+<originInfo><dateCreated>1928</dateCreated><dateCreated encoding="edtf" keyDate="yes">1928 </dateCreated><dateIssued encoding="edtf">1928-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>4 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v32n05_1929-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin,1929</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement program 1929, the University of Tennessee Junior College</title></titleInfo> 
+<abstract>The 1929 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held May 26. This publication contains ceremony program and students receiving certificates.</abstract>
+<originInfo><dateCreated>1929</dateCreated><dateCreated encoding="edtf" keyDate="yes">1929 </dateCreated><dateIssued encoding="edtf">1929-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>3 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v33n05_1930-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin,1930 </title></titleInfo> 
+<titleInfo type="alternative"><title>Closing exercises and high school graduates day 1930</title></titleInfo> 
+<abstract>The 1930 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin publication contains ceremony program and students receiving certificates.</abstract>
+<originInfo><dateCreated>1930</dateCreated><dateCreated encoding="edtf" keyDate="yes">1930 </dateCreated><dateIssued encoding="edtf">1930-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>3 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v35n05_1932-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin,1931</title></titleInfo> 
+<titleInfo type="alternative"><title>Closing exercises and high school graduates day 1931</title></titleInfo> 
+<abstract>The 1931 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin publication contains ceremony program.</abstract>
+<originInfo><dateCreated>1931</dateCreated><dateCreated encoding="edtf" keyDate="yes">1931</dateCreated><dateIssued encoding="edtf">1932-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>2 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v36n06_1933-11_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin,1933</title></titleInfo> 
+<titleInfo type="alternative"><title>Closing exercises and high school graduates day 1933</title></titleInfo> 
+<abstract>The 1933 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held May 26. This publication contains the ceremony program.</abstract>
+<originInfo><dateCreated>1933</dateCreated><dateCreated encoding="edtf" keyDate="yes">1933 </dateCreated><dateIssued encoding="edtf">1933-11</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>2 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v37n05_1934-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin,1934</title></titleInfo> 
+<titleInfo type="alternative"><title>Closing exercises and high school graduates day 1934</title></titleInfo> 
+<abstract>The 1934 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held May 25. This publication contains the ceremony program.</abstract>
+<originInfo><dateCreated>1934</dateCreated><dateCreated encoding="edtf" keyDate="yes">1934 </dateCreated><dateIssued encoding="edtf">1934-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>2 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v38n05_1935-11_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin,1935</title></titleInfo> 
+<titleInfo type="alternative"><title>Closing exercises and high school graduates day, 1935</title></titleInfo> 
+<abstract>The 1935 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held May 24. This publication contains the ceremony program.</abstract>
+<originInfo><dateCreated>1935</dateCreated><dateCreated encoding="edtf" keyDate="yes">1935 </dateCreated><dateIssued encoding="edtf">1935-11</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>1 page</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v39n05_1936-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1936</title></titleInfo> 
+<titleInfo type="alternative"><title>Closing exercises and high school graduates day, 1936</title></titleInfo> 
+<abstract>The 1936 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held May 29. This publication contains the ceremony program and students receiving certificates.</abstract>
+<originInfo><dateCreated>1936</dateCreated><dateCreated encoding="edtf" keyDate="yes">1936 </dateCreated><dateIssued encoding="edtf">1936-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>3 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v40n05_1937-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1937</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement program 1937, the University of Tennessee Junior College</title></titleInfo> 
+<abstract>The 1937 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 4. This publication contains the ceremony program and students receiving certificates.</abstract>
+<originInfo><dateCreated>1937</dateCreated><dateCreated encoding="edtf" keyDate="yes">1937 </dateCreated><dateIssued encoding="edtf">1937-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>3 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v41n05_1938-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1938</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement program 1938, the University of Tennessee Junior College</title></titleInfo> 
+<abstract>The 1938 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 3. This publication contains the ceremony program and students receiving certificates.</abstract>
+<originInfo><dateCreated>1938</dateCreated><dateCreated encoding="edtf" keyDate="yes">1938 </dateCreated><dateIssued encoding="edtf">1938-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>4 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v42n05_1939-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1939</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement exercises, University of Tennessee, Martin 1939</title></titleInfo> 
+<abstract>The 1939 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 2. This publication contains the ceremony program and students receiving certificates.</abstract>
+<originInfo><dateCreated>1939</dateCreated><dateCreated encoding="edtf" keyDate="yes">1939 </dateCreated><dateIssued encoding="edtf">1939-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>4 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v43n05_1940-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1940</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement exercises, University of Tennessee, Martin 1940</title></titleInfo> 
+<abstract>The 1940 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 7. This publication contains the ceremony program and students receiving certificates.</abstract>
+<originInfo><dateCreated>1940</dateCreated><dateCreated encoding="edtf" keyDate="yes">1940 </dateCreated><dateIssued encoding="edtf">1940-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>4 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v44n05_1941-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1941</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement program, University of Tennessee, Martin 1941</title></titleInfo> 
+<abstract>The 1941 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 6. This publication contains the ceremony program and students receiving certificates.</abstract>
+<originInfo><dateCreated>1941</dateCreated><dateCreated encoding="edtf" keyDate="yes">1941 </dateCreated><dateIssued encoding="edtf">1941-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>3 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v45n05_1942-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1942</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement program, University of Tennessee, Martin 1942</title></titleInfo> 
+<abstract>The 1942 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 5. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1942</dateCreated><dateCreated encoding="edtf" keyDate="yes">1942 </dateCreated><dateIssued encoding="edtf">1942-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>3 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v46n05_1943-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1943</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement program, University of Tennessee, Martin 1943</title></titleInfo> 
+<abstract>The 1943 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 4. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1943</dateCreated><dateCreated encoding="edtf" keyDate="yes">1943 </dateCreated><dateIssued encoding="edtf">1943-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>3 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v47n05_1944-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1944</title></titleInfo> 
+<titleInfo type="alternative"><title>Seventeenth commencement program, the University of Tennessee Junior College, 1944</title></titleInfo> 
+<abstract>The 1944 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 2. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1944</dateCreated><dateCreated encoding="edtf" keyDate="yes">1944 </dateCreated><dateIssued encoding="edtf">1944-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>4 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v48n05_1945-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1945</title></titleInfo> 
+<titleInfo type="alternative"><title>Eighteenth commencement program, the University of Tennessee Junior College,1945</title></titleInfo> 
+<abstract>The 1945 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 1. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1945</dateCreated><dateCreated encoding="edtf" keyDate="yes">1945 </dateCreated><dateIssued encoding="edtf">1945-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>6 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v49n05_1946-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1946</title></titleInfo> 
+<titleInfo type="alternative"><title>Nineteenth commencement program, the University of Tennessee Junior College, 1946</title></titleInfo> 
+<abstract>The 1946 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held May 31. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1946</dateCreated><dateCreated encoding="edtf" keyDate="yes">1946 </dateCreated><dateIssued encoding="edtf">1946-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>5 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v50n05_1947-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1947</title></titleInfo> 
+<titleInfo type="alternative"><title>The University of Tennessee Junior College, commencement programs 1947</title></titleInfo> 
+<abstract>The 1947 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held May 30. This publication contains the program schedule.</abstract>
+<originInfo><dateCreated>1947</dateCreated><dateCreated encoding="edtf" keyDate="yes">1947 </dateCreated><dateIssued encoding="edtf">1947-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>1 page</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v51n05_1948-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1948</title></titleInfo> 
+<titleInfo type="alternative"><title>Twenty-first commencement program, the University of Tennessee Junior College, 1948</title></titleInfo> 
+<abstract>The 1948 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 1. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1948</dateCreated><dateCreated encoding="edtf" keyDate="yes">1948 </dateCreated><dateIssued encoding="edtf">1948-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>7 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v52n05_1949-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1949</title></titleInfo> 
+<titleInfo type="alternative"><title>Twenty second commencement program, the University of Tennessee Junior College, 1949</title></titleInfo> 
+<abstract>The 1949 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 6. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1949</dateCreated><dateCreated encoding="edtf" keyDate="yes">1949 </dateCreated><dateIssued encoding="edtf">1949-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>7 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v53n05_1950-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1950</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement program, University of Tennessee, Martin 1950</title></titleInfo> 
+<abstract>The 1950 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 5. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1950</dateCreated><dateCreated encoding="edtf" keyDate="yes">1950 </dateCreated><dateIssued encoding="edtf">1950-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>4 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v54n05_1951-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1951</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement program, University of Tennessee, Martin 1951</title></titleInfo> 
+<abstract>The 1951 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 4. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1951</dateCreated><dateCreated encoding="edtf" keyDate="yes">1951 </dateCreated><dateIssued encoding="edtf">1951-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>4 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v55n05_1952-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1952</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement program, University of Tennessee, Martin 1952</title></titleInfo> 
+<abstract>The 1952 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 2. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1952</dateCreated><dateCreated encoding="edtf" keyDate="yes">1952 </dateCreated><dateIssued encoding="edtf">1952-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>4 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v56n05_1953-09_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1953</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement program, University of Tennessee, Martin 1953</title></titleInfo> 
+<abstract>The 1953 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 1. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1953</dateCreated><dateCreated encoding="edtf" keyDate="yes">1953 </dateCreated><dateIssued encoding="edtf">1953-09</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>6 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v57n06_1954-11_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1954</title></titleInfo> 
+<titleInfo type="alternative"><title>Commencement program, University of Tennessee, Martin 1954</title></titleInfo> 
+<abstract>The 1954 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 7. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1954</dateCreated><dateCreated encoding="edtf" keyDate="yes">1954 </dateCreated><dateIssued encoding="edtf">1954-11</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>3 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v58n06_1955-11_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1951</title></titleInfo> 
+<titleInfo type="alternative"><title>Twenty-eighth commencement program, the University of Tennessee Martin branch, 1955</title></titleInfo> 
+<abstract>The 1951 commencement of the University of Tennessee Martin branch was held June 3. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1951</dateCreated><dateCreated encoding="edtf" keyDate="yes">1951</dateCreated><dateIssued encoding="edtf">1955-11</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>3 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v59n06_1956-11_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1956</title></titleInfo> 
+<titleInfo type="alternative"><title>Twenty-ninth commencement program, the University of Tennessee Martin branch, 1956</title></titleInfo> 
+<abstract>The 1956 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 3. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1956</dateCreated><dateCreated encoding="edtf" keyDate="yes">1956 </dateCreated><dateIssued encoding="edtf">1956-11</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>3 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v60n06_1957-11_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1957</title></titleInfo> 
+<titleInfo type="alternative"><title>June at Martin, baccalaureate-commencement, 1957</title></titleInfo> 
+<abstract>The 1957 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 2. This publication contains the ceremony program and lists graduates.</abstract>
+<originInfo><dateCreated>1957</dateCreated><dateCreated encoding="edtf" keyDate="yes">1957 </dateCreated><dateIssued encoding="edtf">1957-11</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>4 pages</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>
+<mods>
+<identifier type="local">ut-record_v61n06_1958-11_Martin</identifier>
+<titleInfo supplied="yes"><title>Commencement of the University of Tennessee, Martin, 1958</title></titleInfo> 
+<titleInfo type="alternative"><title>June at Martin, baccalaureate-commencement, 1958</title></titleInfo> 
+<abstract>The 1958 commencement of the University of Tennessee Junior College of Agriculture, Home Economics and Industrial Arts in Martin was held June 1. This publication contains the ceremony program.</abstract>
+<originInfo><dateCreated>1958</dateCreated><dateCreated encoding="edtf" keyDate="yes">1958</dateCreated><dateIssued encoding="edtf">1958-11</dateIssued></originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form><extent>1 page</extent></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00009998"><topic>Commencement ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85114211"><topic>Rites and ceremonies</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009002271"><topic>Universities and colleges--Alumni and alumnae--United States</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80003882"><name><namePart>University of Tennessee (Knoxville campus). Martin Branch</namePart></name></subject>
+<language>
+<languageTerm type="text" authority="iso639-2b">English</languageTerm>
+</language>
+<typeOfResource>text</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>University of Tennessee at Martin Commencement Programs</title></titleInfo></relatedItem>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods></modsCollection>
